@@ -1,4 +1,4 @@
-(![print](https://github.com/FranklinMSR/todolist/assets/127708250/d1e327f4-f314-4a4e-b323-3568cadbc66e)
+![print](https://github.com/FranklinMSR/todolist/assets/127708250/d1e327f4-f314-4a4e-b323-3568cadbc66e)
 ![Gif mostrando o projeto.](public/aplication.gif)
 ## ![icons8-notebook-94](https://github.com/FranklinMSR/Web-Shorts-Summary/assets/127708250/d1e28924-a173-4d23-b594-e347e218f22b) Sobre o projeto
 Back-end de uma aplicação de To-Do List, bem como a integração com o banco de dados, implementação de segurança nos dados do usário, atualização de tarefas e validação de rotas.
