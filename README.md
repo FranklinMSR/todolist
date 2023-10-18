@@ -8,7 +8,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias e ferramentas:
 Java, Spring boot, Maven
 ## ![icons8-configurações](https://github.com/FranklinMSR/Web-Shorts-Summary/assets/127708250/ff59f35c-9b50-403d-88da-71c033aa6565) Como executar o projeto
 ### Pré-requisitos
-Antes de começar, você precisa ter instalado em sua máquina as ferramentas, [APIDOG](https://apidog.com/?utm_source=google_Ia&utm_campaign=20592270193&utm_content=151235961982&utm_term=&gclid=Cj0KCQjwhL6pBhDjARIsAGx8D59nQFF-dlWV3QQryDH8yYA02zHX8SjdE-zia-H1VhvTHfaS6_DenboaAsI_EALw_wcB), Postam ou insomnia para testes, além de um editor de código como o [VSCode](https://code.visualstudio.com/).
+Antes de começar, você precisa ter instalado em sua máquina as ferramentas, [APIDOG](https://apidog.com/?utm_source=google_Ia&utm_campaign=20592270193&utm_content=151235961982&utm_term=&gclid=Cj0KCQjwhL6pBhDjARIsAGx8D59nQFF-dlWV3QQryDH8yYA02zHX8SjdE-zia-H1VhvTHfaS6_DenboaAsI_EALw_wcB), Postman ou insomnia para testes, além de um editor de código como o [VSCode](https://code.visualstudio.com/).
 ### Rodando a aplicação
 
 ```bash
